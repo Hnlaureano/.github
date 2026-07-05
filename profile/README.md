@@ -131,18 +131,8 @@ Faz parte da equipe de tecnologia do hospital? Seja bem-vindo(a)! 💙
 ## 📫 Fale conosco
 
 <p align="center">
-  <a href="https://hlaureano.org.br">
-    <img src="https://img.shields.io/badge/Website-1a7a8c?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:sistemas.hnl@hlaureano.org.br">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <!-- Ajuste os links abaixo com as redes oficiais do hospital -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="mailto:grupo.ti@hlaureano.org.br">
+    <img src="https://img.shields.io/badge/grupo.ti@hlaureano.org.br-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
