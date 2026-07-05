@@ -68,7 +68,7 @@ Desenvolvemos e mantemos internamente um ecossistema de sistemas que sustenta a 
     <td align="center" width="25%">🗂️<br/><strong>Administrativo</strong><br/><sub>Gestão de processos administrativos e de infraestrutura</sub></td>
     <td align="center" width="25%">🩺<br/><strong>Assistencial</strong><br/><sub>Apoio às áreas de atendimento e assistência ao paciente</sub></td>
     <td align="center" width="25%">💰<br/><strong>Financeiro</strong><br/><sub>Gestão financeira e controle institucional</sub></td>
-    <td align="center" width="25%">🌐<br/><strong>Intranet 2.0</strong><br/><sub>Portal interno de comunicação e serviços</sub></td>
+    <td align="center" width="25%">🌐<br/><strong>Intranet</strong><br/><sub>Portal interno de comunicação e serviços</sub></td>
   </tr>
 </table>
 
@@ -113,19 +113,6 @@ Investimos em tecnologia para tornar o cuidado mais **eficiente, seguro e acess�
   <img src="https://img.shields.io/badge/SNMP_%2F_WMI-6d597a?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReportLab_%C2%B7_PDF-e63946?style=for-the-badge"/>
-</p>
-
----
-
-## 📂 Nossos projetos
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hnlaureano&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnlaureano&layout=compact&langs_count=8&theme=graywhite&hide_border=true"/>
-</p>
-
-<p align="center">
-  <i>Explore nossos repositórios públicos na aba <a href="https://github.com/orgs/Hnlaureano/repositories">Repositories</a>.</i>
 </p>
 
 ---
