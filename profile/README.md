@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Institui%C3%A7%C3%A3o_Filantr%C3%B3pica-2a9d8f?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Atendimento-SUS-457b9d?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Atendimento-SUS_%C2%B7_Particular_%C2%B7_Conv%C3%AAnios-457b9d?style=flat-square"/>
   <img src="https://img.shields.io/badge/Tradi%C3%A7%C3%A3o-em_cuidar-6d597a?style=flat-square"/>
 </p>
 
@@ -40,22 +40,33 @@ Este é o nosso espaço no GitHub, onde reunimos os **projetos, sistemas e inici
 
 ## 💠 Nossos pilares
 
+<div align="center">
+  <h3>🎯 Propósito</h3>
+  Proteger as pessoas, valorizando a vida.
+</div>
+
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <h3>🎯 Missão</h3>
-      Oferecer assistência oncológica de excelência, com humanização e responsabilidade social, promovendo a vida e a dignidade dos pacientes.
+    <td align="center" width="50%">
+      <h3>💡 Visão</h3>
+      Consolidar-se como o melhor centro filantrópico de atendimento oncológico do Nordeste até 2030, com foco na sustentabilidade, valor assistencial, tecnologia, ensino e pesquisa.
     </td>
-    <td align="center" width="33%">
-      <h3>🔭 Visão</h3>
-      Ser reconhecido como centro de referência em oncologia, aliando qualidade no cuidado, inovação e sustentabilidade.
-    </td>
-    <td align="center" width="33%">
-      <h3>💛 Valores</h3>
-      Humanização · Ética · Compromisso com a vida · Respeito · Excelência · Responsabilidade social
+    <td align="center" width="50%">
+      <h3>🚩 Missão</h3>
+      Promover o cuidado aos pacientes, familiares e colaboradores em toda a sua plenitude, através da excelência, inovação e na geração de conhecimento.
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <h3>🏅 Política da Qualidade</h3>
+  Fornecer atendimento oncológico aos nossos clientes com segurança e qualidade, atendendo a todos os requisitos aplicáveis e melhorando continuamente os nossos processos.
+</div>
+
+<div align="center">
+  <h3>🤲 Valores</h3>
+  <strong>Altruísmo · Compromisso · Ética · Humanidade · Integridade</strong>
+</div>
 
 ---
 
