@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7a8c,100:0d3b66&height=200&section=header&text=Hospital%20Napole%C3%A3o%20Laureano&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=O%20Hospital%20da%20Vida&descSize=18&descAlignY=60&descColor=e0f2f7" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4d2e,100:40916c&height=200&section=header&text=Hospital%20Napole%C3%A3o%20Laureano&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=O%20Hospital%20da%20Vida&descSize=18&descAlignY=60&descColor=d8f3dc" width="100%"/>
 </p>
 
 <!--
@@ -152,7 +152,7 @@ Faz parte da equipe de tecnologia do hospital? Seja bem-vindo(a)! 💙
 
 <!-- RODAPÉ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b66,100:1a7a8c&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:40916c,100:1a4d2e&height=120&section=footer"/>
 </p>
 
 <p align="center">
