@@ -40,33 +40,30 @@ Este é o nosso espaço no GitHub, onde reunimos os **projetos, sistemas e inici
 
 ## 💠 Nossos pilares
 
-<div align="center">
-  <h3>🎯 Propósito</h3>
-  Proteger as pessoas, valorizando a vida.
-</div>
-
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <h3>💡 Visão</h3>
-      Consolidar-se como o melhor centro filantrópico de atendimento oncológico do Nordeste até 2030, com foco na sustentabilidade, valor assistencial, tecnologia, ensino e pesquisa.
+    <td align="center" width="20%" valign="top">
+      <h3>🎯 Propósito</h3>
+      <sub>Proteger as pessoas, valorizando a vida.</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="20%" valign="top">
+      <h3>💡 Visão</h3>
+      <sub>Consolidar-se como o melhor centro filantrópico de atendimento oncológico do Nordeste até 2030, com foco na sustentabilidade, valor assistencial, tecnologia, ensino e pesquisa.</sub>
+    </td>
+    <td align="center" width="20%" valign="top">
       <h3>🚩 Missão</h3>
-      Promover o cuidado aos pacientes, familiares e colaboradores em toda a sua plenitude, através da excelência, inovação e na geração de conhecimento.
+      <sub>Promover o cuidado aos pacientes, familiares e colaboradores em toda a sua plenitude, através da excelência, inovação e na geração de conhecimento.</sub>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <h3>🏅 Política da Qualidade</h3>
+      <sub>Fornecer atendimento oncológico aos nossos clientes com segurança e qualidade, atendendo a todos os requisitos aplicáveis e melhorando continuamente os nossos processos.</sub>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <h3>🤲 Valores</h3>
+      <sub>Altruísmo · Compromisso · Ética · Humanidade · Integridade</sub>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <h3>🏅 Política da Qualidade</h3>
-  Fornecer atendimento oncológico aos nossos clientes com segurança e qualidade, atendendo a todos os requisitos aplicáveis e melhorando continuamente os nossos processos.
-</div>
-
-<div align="center">
-  <h3>🤲 Valores</h3>
-  <strong>Altruísmo · Compromisso · Ética · Humanidade · Integridade</strong>
-</div>
 
 ---
 
