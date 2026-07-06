@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7a8c,100:0d3b66&height=200&section=header&text=Hospital%20Napole%C3%A3o%20Laureano&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cuidar%20de%20vidas%20%C3%A9%20a%20nossa%20miss%C3%A3o&descSize=18&descAlignY=60&descColor=e0f2f7" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7a8c,100:0d3b66&height=200&section=header&text=Hospital%20Napole%C3%A3o%20Laureano&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=O%20Hospital%20da%20Vida&descSize=18&descAlignY=60&descColor=e0f2f7" width="100%"/>
 </p>
 
 <!--
